@@ -45,7 +45,7 @@ a:hover {
 }
 /* ==================== Header section styles start from here ==================== */
 header {
-  background: url("https://github.com/azizur-dev/assignment-01/blob/main/assets/Hero-bg.png?raw=true");
+  background: url("./assets/Hero-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
